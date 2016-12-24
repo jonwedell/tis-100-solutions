@@ -1,5 +1,5 @@
 @0
-## CYCLES++
+## CYCLES
 
 @1
 MOV UP ACC

@@ -1,5 +1,5 @@
 @0
-## NODE + INSTR
+## NODE
 
 @1
 MOV UP RIGHT
