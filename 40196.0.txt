@@ -1,0 +1,45 @@
+@0
+## ALL
+
+@1
+MOV UP ACC
+JNZ Z
+MOV UP ACC
+JNZ Z1
+T: MOV UP ACC
+JNZ Z2
+MOV 1 RIGHT
+JMP T
+Z2: MOV 0 RIGHT
+Z1: MOV 0 RIGHT
+Z: MOV 0 RIGHT
+
+@2
+MOV LEFT DOWN
+
+@3
+
+
+@4
+
+
+@5
+MOV UP DOWN
+
+@6
+
+
+@7
+
+
+@8
+
+
+@9
+MOV 0 DOWN
+MOV 0 DOWN
+S: MOV UP DOWN
+JMP S
+
+@10
+
